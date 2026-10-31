@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://digivia.ae
+Sitemap: https://digivia.ae/sitemap.xml

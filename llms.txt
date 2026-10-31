@@ -1,0 +1,21 @@
+# DigiVia
+
+> DigiVia L.L.C-FZ is a Dubai (Meydan Free Zone) software and cybersecurity company. It designs, builds and operates custom platforms, web and mobile apps, AI assistants and automation, with a focus on travel and transfer technology.
+
+Contact: info@digivia.ae · WhatsApp +971 55 486 1805 · Meydan Grandstand, 6th floor, Nad Al Sheba, Dubai, UAE · Licence 2649085.01
+Languages: English, Turkish, Arabic
+
+## Pages
+
+- [Home](https://digivia.ae/en/): overview of capabilities and approach
+- [Services](https://digivia.ae/en/services/): custom software, web & mobile, AI & automation, cybersecurity, IT & network consulting
+- [Products](https://digivia.ae/en/products/): Partner Paneli, Welcome Team, WhatsApp Operations Gateway
+- [Work](https://digivia.ae/en/work/): anonymised case studies
+- [Privacy Policy](https://digivia.ae/en/privacy/)
+- [Terms of Use](https://digivia.ae/en/terms/)
+
+## Products
+
+- [Partner Paneli](https://partnelpanel.com): operations platform for transfer companies (bookings, dispatch, flight status, accounting)
+- [Welcome Team](https://welcometeam.com.tr): airport meet & greet platform (iOS, Android, web panel, agency API)
+- WhatsApp Operations Gateway: self-hosted multi-line WhatsApp panel with REST API and webhooks (demo on request)
